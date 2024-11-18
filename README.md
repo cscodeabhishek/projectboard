@@ -17,6 +17,7 @@ To run the project locally, follow these steps:
 ### 1. Clone the Repository
 
 Clone the repository using the following command:
+online link to access the web app: https://projectmanagementboard.netlify.app/
 
 ```bash
 1.)git clone https://github.com/cscodeabhishek/projectboard.git
